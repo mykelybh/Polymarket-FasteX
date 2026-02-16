@@ -1,2 +1,9 @@
-requests
-tradejournal
+# HTTP requests & parsing
+requests>=2.31.0
+
+# Optional trade journal integration
+tradejournal>=0.1.0
+
+# CLI argument parsing (standard lib) → included by default
+
+# JSON, math, datetime, urllib are standard libs → no install needed
