@@ -1,4 +1,1 @@
 requests
-python-dotenv
-web3
-pydantic
